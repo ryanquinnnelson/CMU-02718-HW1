@@ -1,5 +1,5 @@
 # CMU-02718-HW1
-Fall 2020 Computational Medicine course project - Phenotype Discovery on COVID-19 Data
+Fall 2020 - Computational Medicine course project - Phenotype Discovery on COVID-19 Data
 
 ### Summary
 
